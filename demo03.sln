@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiuasApplication_t1", "kiua
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pesukone_t2", "pesukone_t2\pesukone_t2.csproj", "{384AD357-6F25-47CC-98A3-666479C8B727}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kt_5", "kt_5\kt_5.csproj", "{64B665C3-6C0E-47A8-A36B-AFF56F3DBB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kt_4_vehicle", "kt_4_vehicle\kt_4_vehicle.csproj", "{3462CC2C-FDFA-48C1-9A3C-318963701DBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{384AD357-6F25-47CC-98A3-666479C8B727}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{384AD357-6F25-47CC-98A3-666479C8B727}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{384AD357-6F25-47CC-98A3-666479C8B727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B665C3-6C0E-47A8-A36B-AFF56F3DBB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B665C3-6C0E-47A8-A36B-AFF56F3DBB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B665C3-6C0E-47A8-A36B-AFF56F3DBB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B665C3-6C0E-47A8-A36B-AFF56F3DBB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3462CC2C-FDFA-48C1-9A3C-318963701DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3462CC2C-FDFA-48C1-9A3C-318963701DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3462CC2C-FDFA-48C1-9A3C-318963701DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3462CC2C-FDFA-48C1-9A3C-318963701DBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
